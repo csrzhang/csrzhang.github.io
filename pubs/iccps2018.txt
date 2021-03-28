@@ -1,0 +1,9 @@
+@INPROCEEDINGS{8443752,
+  author={X. {Li} and M. {Liu} and R. {Zhang} and P. {Cheng} and J. {Chen}},
+  booktitle={2018 ACM/IEEE 9th International Conference on Cyber-Physical Systems (ICCPS)}, 
+  title={Demo Abstract: An Industrial Control System Testbed for the Encrypted Controller}, 
+  year={2018},
+  volume={},
+  number={},
+  pages={343-344},
+  doi={10.1109/ICCPS.2018.00045}}

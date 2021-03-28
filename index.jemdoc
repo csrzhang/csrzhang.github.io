@@ -1,0 +1,85 @@
+# jemdoc: menu{menu.jemdoc}{index.html}
+= Rui Zhang (张瑞)
+
+~~~
+{}{img_left}{rui.jpg}{alt text}{150px}{200px}
+*Ph.D. Student* [rzhang_cv.pdf \[resume\]] \n
+\n
+[https://www.comp.polyu.edu.hk/ Department of Computing] \n
+[https://www.polyu.edu.hk/feng/ Faculty of Engineering] \n
+[https://www.polyu.edu.hk/ The Hong Kong Polytechnic University (PolyU)] \n
+\n
+*Office*: PQ509, Mong Man Wai Building, PolyU \n
+*Email*: csrzhang1 \[AT\] comp.polyu.edu.hk
+~~~
+t
+== News
+# ~~~
+- Jun. 2020: I have successfully completed my master's study!
+- Oct. 2020: I have started my PhD career in Hong Kong!
+# ~~~
+
+
+== Biography
+Rui Zhang is a first-year PhD student at The Hong Kong Polytechnic University, supervised by Prof. [https://www.comp.polyu.edu.hk/en-us/staffs/detail/4511 Song Guo] /(IEEE Fellow)/. His doctoral main research area includes Federated Learning, Differential Privacy, and privacy & security in Machine Learning. Before that, he received his M.E. degree in Control Science and Engineering from Zhejiang University, supervised by Prof. [https://person.zju.edu.cn/en/jmchen Jiming Chen] /(IEEE Fellow)/ and Prof. [https://person.zju.edu.cn/en/cp Peng Cheng] in Networked Sensing and Control ([http://sensornet.cn/ NeSC]) group.
+
+
+== Education
+*[https://www.polyu.edu.hk/ The Hong Kong Polytechnic University]*
+- Ph.D. student in Computer Science, Sep. 2020 - Jun. 2023 /(Expected)/
+- Supervisor: Prof. [https://www.comp.polyu.edu.hk/en-us/staffs/detail/4511 Song Guo] /(IEEE Fellow)/
+
+*[http://www.zju.edu.cn/english/ Zhejiang University]*
+- M.E. in Control Science and Engineering, Sep. 2017 - Jun. 2020
+- Supervisor: Prof. [https://person.zju.edu.cn/en/jmchen Jiming Chen] /(IEEE Fellow)/ & Prof. [https://person.zju.edu.cn/en/cp Peng Cheng]
+
+*[http://english.neu.edu.cn/ Northeastern University]*
+- B.E. in Automation Engineering, Sep. 2013 - Jun. 2017
+- Average GPA: 90 \/ 100 /(ranking top 5%)/
+
+
+== Publications
+=== Conference
+:{[https://ieeexplore.ieee.org/abstract/document/9128900 A Novel Pseudonym Linking Scheme for Privacy Inference in VANETs]}
+Rui Zhang, Xin Wang, Peng Cheng, and Jiming Chen \n
+# IEEE Vehicular Technology Conference 2020 
+IEEE VTC 2020 [pubs/vtc2020.txt \[bibtex\]]
+
+:{[https://ieeexplore.ieee.org/document/8443752 An Industrial Control System Testbed for the Encrypted Controller]}
+Xing Li, Mengxiang Liu, Rui Zhang, Peng Cheng, and Jiming Chen \n
+# IEEE International Conference on Cyber-Physical Systems (ICCPS) 2018 
+IEEE ICCPS 2018 [pubs/iccps2018.txt \[bibtex\]]
+
+# === Patent
+# :{A Simulation Experiment Platform for Privacy Preservation Research in VANETs}
+# Peng Cheng, Rui Zhang\*, Linkang Du, and Jiming Chen (\*student first author) \n
+# China National Intellectual Property Administration
+
+
+== Awards
+*[http://www.zju.edu.cn/english/ Zhejiang University]*
+- Provincial Outstanding Graduate
+- Outstanding Graduate Leader Award
+- Award of Honor for Graduate
+- Endress+Hauser Scholarship
+
+*[http://english.neu.edu.cn/ Northeastern University]*
+- ‘SIEMENS Cup’ Intelligent Manufacturing Challenge /(Outstanding Winner)/
+- American Mathematical Contest in Modeling /(Honorable Mention)/
+- Provincial Outstanding Undergraduate
+- National Scholarship /(top 1.5%)/
+
+
+== Academic Working Experience
+*[https://www.zhejianglab.com/en Zhejiang Lab]*
+- Cyber security of Industrial Control Systems, Jul. 2019 - Sep. 2019
+
+
+== Teaching Experience
+- Teaching Assistant, Wireless Network and Mobile Computing, Spring 2021
+
+
+== Academic Services
+- Reviewer for IEEE Global Communications Conferences (GLOBECOM)
+- Reviewer for IEEE Vehicular Technology Conference (VTC)
+- Reviewer for Journal of Sensors
