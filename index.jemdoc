@@ -3,7 +3,8 @@
 
 ~~~
 {}{img_left}{rui.jpg}{alt text}{150px}{200px}
-*Ph.D. Student* [rzhang_cv.pdf \[resume\]] \n
+*Ph.D. Student* \n
+# [rzhang_cv.pdf \[cv\]]
 \n
 [https://www.comp.polyu.edu.hk/ Department of Computing] \n
 [https://www.polyu.edu.hk/feng/ Faculty of Engineering] \n
@@ -21,7 +22,12 @@ t
 
 
 == Biography
-Rui Zhang is a first-year PhD student at The Hong Kong Polytechnic University, supervised by Prof. [https://www.comp.polyu.edu.hk/en-us/staffs/detail/4511 Song Guo] /(IEEE Fellow)/. His doctoral main research area includes Federated Learning, Differential Privacy, and privacy & security in Machine Learning. Before that, he received his M.E. degree in Control Science and Engineering from Zhejiang University, supervised by Prof. [https://person.zju.edu.cn/en/jmchen Jiming Chen] /(IEEE Fellow)/ and Prof. [https://person.zju.edu.cn/en/cp Peng Cheng] in Networked Sensing and Control ([http://sensornet.cn/ NeSC]) group.
+Rui Zhang is a PhD student in /Computer Science/ at The Hong Kong Polytechnic University, supervised by Prof. [https://www.comp.polyu.edu.hk/en-us/staffs/detail/4511 Song Guo] /(IEEE Fellow)/. Before that, he received his M.E. degree in /Control Science and Engineering/ from Zhejiang University, co-supervised by Prof. [https://person.zju.edu.cn/en/jmchen Jiming Chen] /(IEEE Fellow)/ and Prof. [https://person.zju.edu.cn/en/cp Peng Cheng] in group of Networked Sensing and Control ([http://www.sensornet.cn/ NeSC]).
+# and B.E. degree in Automation Engineering from Northeastern University.
+His main research interests include but not limit to:
+- Federated Learning
+- Differential Privacy
+- AI Privacy & Security
 
 
 == Education
@@ -40,20 +46,20 @@ Rui Zhang is a first-year PhD student at The Hong Kong Polytechnic University, s
 
 == Publications
 === Conference
-:{[https://ieeexplore.ieee.org/abstract/document/9128900 A Novel Pseudonym Linking Scheme for Privacy Inference in VANETs]}
-Rui Zhang, Xin Wang, Peng Cheng, and Jiming Chen \n
+:{[https://ieeexplore.ieee.org/document/9128900 A Novel Pseudonym Linking Scheme for Privacy Inference in VANETs]}
+*Rui Zhang*, Xin Wang, Peng Cheng, and Jiming Chen \n
 # IEEE Vehicular Technology Conference 2020 
 IEEE VTC 2020 [pubs/vtc2020.txt \[bibtex\]]
 
 :{[https://ieeexplore.ieee.org/document/8443752 An Industrial Control System Testbed for the Encrypted Controller]}
-Xing Li, Mengxiang Liu, Rui Zhang, Peng Cheng, and Jiming Chen \n
+Xing Li, Mengxiang Liu, *Rui Zhang*, Peng Cheng, and Jiming Chen \n
 # IEEE International Conference on Cyber-Physical Systems (ICCPS) 2018 
 IEEE ICCPS 2018 [pubs/iccps2018.txt \[bibtex\]]
 
-# === Patent
-# :{A Simulation Experiment Platform for Privacy Preservation Research in VANETs}
-# Peng Cheng, Rui Zhang\*, Linkang Du, and Jiming Chen (\*student first author) \n
-# China National Intellectual Property Administration
+=== Patent
+:{A Simulation Experiment Platform for Privacy Preservation Research in VANETs}
+Peng Cheng, *Rui Zhang*, Linkang Du, and Jiming Chen \n
+China Patent No. ZL201910399620.X
 
 
 == Awards
@@ -70,13 +76,13 @@ IEEE ICCPS 2018 [pubs/iccps2018.txt \[bibtex\]]
 - National Scholarship /(top 1.5%)/
 
 
-== Academic Working Experience
-*[https://www.zhejianglab.com/en Zhejiang Lab]*
-- Cyber security of Industrial Control Systems, Jul. 2019 - Sep. 2019
+== Academic Experience
+*[https://www.zhejianglab.com/en Zhejiang Lab] [https://www.zhejianglab.com (之江实验室)]*
+- Research Intern, Cyber Security of Industrial Control Systems, Jul. 2019 - Sep. 2019
 
 
 == Teaching Experience
-- Teaching Assistant, Wireless Network and Mobile Computing, Spring 2021
+- Teaching Assistant, Wireless Network and Mobile Computing (COMP5327), Spring 2021
 
 
 == Academic Services

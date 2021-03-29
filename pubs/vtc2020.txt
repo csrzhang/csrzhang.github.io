@@ -1,9 +1,8 @@
-@INPROCEEDINGS{9128900,
-  author={R. {Zhang} and X. {Wang} and P. {Cheng} and J. {Chen}},
-  booktitle={2020 IEEE 91st Vehicular Technology Conference (VTC2020-Spring)}, 
-  title={A Novel Pseudonym Linking Scheme for Privacy Inference in VANETs}, 
+@inproceedings{zhang2020novel,
+  title={A Novel Pseudonym Linking Scheme for Privacy Inference in VANETs},
+  author={Zhang, Rui and Wang, Xin and Cheng, Peng and Chen, Jiming},
+  booktitle={2020 IEEE 91st Vehicular Technology Conference (VTC2020-Spring)},
+  pages={1--5},
   year={2020},
-  volume={},
-  number={},
-  pages={1-5},
-  doi={10.1109/VTC2020-Spring48590.2020.9128900}}
+  organization={IEEE}
+}
