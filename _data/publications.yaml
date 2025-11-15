@@ -28,26 +28,26 @@ papers:
 
 - title: "Privacy Inference for Data Auditing"
   authors: "<b>Rui Zhang</b>, Song Guo"
-  venue: "International Symposium on AI, Data and Digitalization (SAIDD), 2023."
+  venue: "International Symposium on AI, Data and Digitalization (SAIDD), 2023"
   paper_pdf: "https://www.vestforsk.no/sites/default/files/2023-05/SAIDD2023-Proceedings-VFweb_0.pdf#page=35"
   selected: n
 
 - title: "MGIA: Mutual Gradient Inversion Attack in MultiModal Federated Learning (Student Abstract)"
   authors: "Xuan Liu, Siqi Cai, Lin Li, <b>Rui Zhang</b>, Song Guo"
-  venue: "AAAI Conference on Artificial Intelligence (AAAI), 2023."
+  venue: "AAAI Conference on Artificial Intelligence (AAAI), 2023"
   paper_pdf: "https://ojs.aaai.org/index.php/AAAI/article/view/26995/26767"
   selected: n
 
 - title: "A Survey on Gradient Inversion: Attacks, Defenses and Future Directions"
   authors: "<b>Rui Zhang</b>, Song Guo, Junxiao Wang, Xin Xie, Dacheng Tao"
-  venue: "International Joint Conference on Artificial Intelligence (IJCAI), 2022."
+  venue: "International Joint Conference on Artificial Intelligence (IJCAI), 2022"
   paper_pdf: "https://www.ijcai.org/proceedings/2022/0791.pdf"
   video: "https://www.ijcai.org/proceedings/2022/video/791"
   selected: y
 
 - title: "Cycle: Sustainable Off-Chain Payment Channel Network with Asynchronous Rebalancing"
   authors: "Zicong Hong, Song Guo, <b>Rui Zhang</b>, Peng Li, Yunfeng Zhan, Wuhui Chen"
-  venue: "International Conference on Dependable Systems and Networks (DSN), 2022."
+  venue: "International Conference on Dependable Systems and Networks (DSN), 2022"
   paper_pdf: "https://ieeexplore.ieee.org/document/9833795"
   video: "https://www.youtube.com/watch?v=XPpFLUeqvw4"
   selected: y
