@@ -1,0 +1,21 @@
+# Ignore Jekyll's automatically generated folder
+_site/
+_snap_md5.txt
+
+# Ignore Jekyll cache and metadata
+.jekyll-cache/
+
+# Ignore operating system junk files
+.DS_Store
+
+# Ignore cv and pub assets from template
+assets/cv/
+assets/publications/
+
+# Ignore project data and assets
+assets/projects/
+_projects/
+_data/projects.yaml
+
+# Ignore README.md
+README.md

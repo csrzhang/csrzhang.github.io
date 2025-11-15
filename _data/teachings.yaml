@@ -1,0 +1,21 @@
+courses:
+
+- title: "Machine Learning"
+  code: "COMP4432"
+  link: "https://www4.comp.polyu.edu.hk/~cskchung/COMP4432/"
+  semester: "Spring 2023"
+
+- title: "Artificial Intelligence"
+  code: "COMP4431"
+  link: "https://www.polyu.edu.hk/comp/docdrive/ug/subject/COMP4431.pdf"
+  semester: "Fall 2022"
+
+- title: "Artificial Intelligence"
+  code: "COMP4431"
+  link: "https://www.polyu.edu.hk/comp/docdrive/ug/subject/COMP4431.pdf"
+  semester: "Fall 2021"
+
+- title: "Wireless Network and Mobile Computing"
+  code: "COMP5327"
+  link: "https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5327.pdf"
+  semester: "Spring 2021"

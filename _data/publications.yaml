@@ -1,0 +1,71 @@
+papers:
+
+- title: "Building Gradient Bridges: Label Leakage from Restricted Gradient Sharing in Federated Learning"
+  authors: "<b>Rui Zhang</b>, Ka-Ho Chow, Ping Li"
+  venue: "arXiv preprint, 2025"
+  paper_pdf: "https://arxiv.org/abs/2412.12640"
+  selected: y
+
+- title: "Geminio: Language-Guided Gradient Inversion Attacks in Federated Learning"
+  authors: "Junjie Shan, Ziqi Zhao, Jialin Lu, <b>Rui Zhang</b>, Siu Ming Yiu, Ka-Ho Chow"
+  venue: "International Conference on Computer Vision (ICCV), 2025"
+  paper_pdf: "https://arxiv.org/pdf/2411.14937"
+  code: "https://github.com/HKU-TASR/Geminio"
+  selected: y
+
+- title: "GradFilt: Class-wise Targeted Data Reconstruction from Gradients in Federated Learning"
+  authors: "<b>Rui Zhang</b>, Song Guo, Ping Li"
+  venue: "The Web Conference (WWW), 2024"
+  paper_pdf: "https://dl.acm.org/doi/10.1145/3589335.3651514"
+  video: "https://www.youtube.com/watch?v=PcciQRKcs8g"
+  selected: y
+
+- title: "Posterior Probability-based Label Recovery Attack in Federated Learning"
+  authors: "<b>Rui Zhang</b>, Song Guo, Ping Li"
+  venue: "ICLR PML Workshop, 2024"
+  paper_pdf: "https://openreview.net/forum?id=8yELN390FL"
+  selected: y
+
+- title: "Privacy Inference for Data Auditing"
+  authors: "<b>Rui Zhang</b>, Song Guo"
+  venue: "International Symposium on AI, Data and Digitalization (SAIDD), 2023."
+  paper_pdf: "https://www.vestforsk.no/sites/default/files/2023-05/SAIDD2023-Proceedings-VFweb_0.pdf#page=35"
+  selected: n
+
+- title: "MGIA: Mutual Gradient Inversion Attack in MultiModal Federated Learning (Student Abstract)"
+  authors: "Xuan Liu, Siqi Cai, Lin Li, <b>Rui Zhang</b>, Song Guo"
+  venue: "AAAI Conference on Artificial Intelligence (AAAI), 2023."
+  paper_pdf: "https://ojs.aaai.org/index.php/AAAI/article/view/26995/26767"
+  selected: n
+
+- title: "A Survey on Gradient Inversion: Attacks, Defenses and Future Directions"
+  authors: "<b>Rui Zhang</b>, Song Guo, Junxiao Wang, Xin Xie, Dacheng Tao"
+  venue: "International Joint Conference on Artificial Intelligence (IJCAI), 2022."
+  paper_pdf: "https://www.ijcai.org/proceedings/2022/0791.pdf"
+  video: "https://www.ijcai.org/proceedings/2022/video/791"
+  selected: y
+
+- title: "Cycle: Sustainable Off-Chain Payment Channel Network with Asynchronous Rebalancing"
+  authors: "Zicong Hong, Song Guo, <b>Rui Zhang</b>, Peng Li, Yunfeng Zhan, Wuhui Chen"
+  venue: "International Conference on Dependable Systems and Networks (DSN), 2022."
+  paper_pdf: "https://ieeexplore.ieee.org/document/9833795"
+  video: "https://www.youtube.com/watch?v=XPpFLUeqvw4"
+  selected: y
+
+- title: "A Novel Pseudonym Linking Scheme for Privacy Inference in VANETs"
+  authors: "<b>Rui Zhang</b>, Xin Wang, Peng Cheng, Jiming Chen."
+  venue: "Vehicular Technology Conference (VTC), 2020"
+  paper_pdf: "https://ieeexplore.ieee.org/document/9128900"
+  selected: n
+
+- title: "An Industrial Control System Testbed for the Encrypted Controller"
+  authors: "Xing Li, Mengxiang Liu, <b>Rui Zhang</b>, Peng Cheng, Jiming Chen"
+  venue: "International Conference on Cyber-Physical Systems (ICCPS), 2018"
+  paper_pdf: "https://ieeexplore.ieee.org/document/8443752"
+  selected: n
+
+- title: "A Simulation-based Platform for Privacy Preservation Research in VANETs"
+  authors: "Peng Cheng, <b>Rui Zhang</b>, Linkang Du, Jiming Chen"
+  venue: "Chinese Patent (No. CN110189517B), 2020"
+  paper_pdf: "https://patents.google.com/patent/CN110189517A"
+  selected: n

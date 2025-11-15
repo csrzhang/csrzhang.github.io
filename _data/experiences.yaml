@@ -1,0 +1,31 @@
+experiences:
+
+- place: "The University of Hong Kong"
+  time: "2025 - now"
+  title: "Postdoc Research Fellow"
+  subtitle: "Musketeers Foundation Institute of Data Science"
+  category: "work"
+
+- place: "The Hong Kong Polytechnic University"
+  time: "2020 - 2025"
+  title: "Ph.D. Student"
+  subtitle: "Computer Science"
+  category: "study"
+
+- place: "Zhejiang University"
+  time: "2017 - 2020"
+  title: "M.Eng. Student"
+  subtitle: "Control Science and Engineering"
+  category: "study"
+
+- place: "Zhejiang Lab"
+  time: "Summer 2019"
+  title: "Research Scientist, Intern"
+  subtitle: "Research Center for Intelligent Equipment"
+  category: "work"
+
+- place: "Northeastern University"
+  time: "2013 - 2017"
+  title: "B.Eng. Student"
+  subtitle: "Automation <br/> First Class Honors"
+  category: "study"

@@ -1,0 +1,51 @@
+conference_reviewers:
+
+- title: "ACL"
+  year: "2025"
+
+- title: "ICCV"
+  year: "2025"
+
+- title: "ICLR"
+  year: "2025-2026"
+
+- title: "AAAI"
+  year: "2025-2026"
+
+- title: "CVPR"
+  year: "2024-2026"
+
+- title: "IJCAI"
+  year: "2024-2025"
+
+- title: "INFOCOM"
+  year: "2022-2024"
+
+# - title: "PerCom"
+#   year: "2022"
+
+# - title: "GLOBECOM"
+#   year: "2019"
+
+# - title: "VTC"
+#   year: "2018-2019"
+
+
+journal_reviewers:
+
+- title: "IEEE Transactions on Parallel and Distributed Systems (TPDS)"
+
+- title: "ACM Computing Surveys (CSUR)"
+
+- title: "Journal of Sensors"
+
+- title: "IEEE Access"
+
+
+program_committee:
+
+- title: "AAAI"
+  year: "2025-2026"
+
+- title: "IJCAI"
+  year: "2024-2025"
